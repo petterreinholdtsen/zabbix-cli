@@ -1,0 +1,5 @@
+zabbix-cli (1.5.4-1) UNRELEASED; urgency=low
+
+  * Initial upload to Debian (Closes: #XXX).
+
+ -- Petter Reinholdtsen <pere@debian.org>  Mon, 17 Oct 2016 11:41:24 +0000
