@@ -13,5 +13,6 @@ Vcs-Git: https://github.com/usit-gd/zabbix-cli
 Package: zabbix-cli
 Architecture: all
 Depends: ${misc:Depends}
+ , ${python:Depends}
  , python-requests
 Description: Command-line interface for Zabbix monitoring system
